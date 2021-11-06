@@ -1,0 +1,579 @@
+inventory_numbers;tag_inv;NURI;NURI_tag;taxonomy_1;tag_tax_1;taxonomy_2;tag_tax_2;location;tag_loc;stratigraphy;tag_str;author;author_tag;year;year_tag;old_inventory;old_inventory_tag;collector;collector_tag;determiner;determiner_tag
+MB.I.0033;INV;http://coll.mfn-berlin.de/u/e4dae9;O;Elcana;GEN;pygmaea;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Handlirsch;O;1939;O;12;O;Coll. Uni Rostock;O;;O
+MB.I.0037.1;INV;http://coll.mfn-berlin.de/u/e4daa6;O;Elcana;GEN;geinitzi;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Handlirsch;O;1939;O;17;O;Coll. Uni Rostock;O;;O
+MB.I.0038;INV;http://coll.mfn-berlin.de/u/e4dabf;O;Chrysoforthris;GEN;veterana;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Handlirsch;O;1939;O;20;O;Coll. Uni Rostock;O;;O
+MB.I.0051;INV;http://coll.mfn-berlin.de/u/94044a;O;Isophlebia;GEN;aspasia;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Handlirsch;O;1939;O;13;O;Coll. Uni Rostock;O;;O
+MB.I.15.3.b;INV;http://coll.mfn-berlin.de/u/e4da3d;O;Pycnophlebia;GEN;speciosa;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Geinitz;O;1880;O;;O;Coll. Uni Rostock;O;;O
+MB.I.1657.b;INV;http://coll.mfn-berlin.de/u/25ee5f;O;Pycnophlebia;GEN;speciosa;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Heyden;O;;O;65;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.1658;INV;http://coll.mfn-berlin.de/u/648686;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Oberer Malm;STR;Hagen;O;1866;O;;O;;O;;O
+MB.I.1659.a;INV;http://coll.mfn-berlin.de/u/94082e;O;Cymatophlebia;GEN;longialata;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;148,  Inv,-Nr.1995.4;O;leg. Kaufmann, 07.05.1977;O;;O
+MB.I.1659.b;INV;http://coll.mfn-berlin.de/u/9407f8;O;Stenophlebia;GEN;latreillei;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;147, Inv,-Nr.1995.4;O;leg. Kaufmann, 07.05.1977;O;;O
+MB.I.1699;INV;http://coll.mfn-berlin.de/u/ce9446;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Germar;O;1839;O;;O;Coll. Meusebach;O;det. Bechly, Nov. 1996;O
+MB.I.1700;INV;http://coll.mfn-berlin.de/u/a94781;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;;O;Slg. Schlotheim;O;det. Bechly, Nov. 1996;O
+MB.I.1701.a;INV;http://coll.mfn-berlin.de/u/975d4b;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;21;O;Coll. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1701.b;INV;http://coll.mfn-berlin.de/u/f0b1ce;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;87;O;Coll. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1702;INV;http://coll.mfn-berlin.de/u/940781;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;;O;Coll. Münster;O;det. Bechly, Nov. 1996;O
+MB.I.1703.a;INV;http://coll.mfn-berlin.de/u/5d9d46;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1703.b;INV;http://coll.mfn-berlin.de/u/9a0450;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1704.a;INV;http://coll.mfn-berlin.de/u/ecfd87;O;Protolindenia;GEN;wittei;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;89;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1704.b;INV;http://coll.mfn-berlin.de/u/389c38;O;Mesuropetala;GEN;koehleri;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1705.a;INV;http://coll.mfn-berlin.de/u/f2a8fd;O;Protolindenia;GEN;sp.;SPE;Windischofen b. Eichstätt;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;;O;;O;;O
+MB.I.1705.b;INV;http://coll.mfn-berlin.de/u/d67650;O;Mesuropetala;GEN;sp.;SPE;Windischofen b. Eichstätt;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;1862;O;;O;;O;;O
+MB.I.1706;INV;http://coll.mfn-berlin.de/u/e5547e;O;Protolindenia;GEN;wittei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1707;INV;http://coll.mfn-berlin.de/u/11f623;O;Protolindenia;GEN;wittei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Hagen;O;1848;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1708.a;INV;http://coll.mfn-berlin.de/u/c0ecee;O;Mesuropetala;GEN;koehleri;SPE;Eichstätt ;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Münster;O;det. Bechly, Nov. 1996;O
+MB.I.1708.b;INV;http://coll.mfn-berlin.de/u/7a2cdb;O;Mesuropetala;GEN;koehleri;SPE;Eichstätt ;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Münster;O;det. Bechly, Nov. 1996;O
+MB.I.1709.a;INV;http://coll.mfn-berlin.de/u/2b4505;O;Mesuropetala;GEN;koehleri;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1709.b;INV;http://coll.mfn-berlin.de/u/cb1415;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1710.a;INV;http://coll.mfn-berlin.de/u/e0bcfa;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Hagen;O;1848;O;;O;Qu.-Kat. 268 (Libellula bavarica);O;det. Bechly, Nov. 1996;O
+MB.I.1710.b;INV;http://coll.mfn-berlin.de/u/49940e;O;Protolindenia;GEN;wittei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Hagen;O;1848;O;;O;Qu.-Kat. 268 (Libellula bavarica);O;det. Bechly, Nov. 1996;O
+MB.I.1711;INV;http://coll.mfn-berlin.de/u/5ee421;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Hagen;O;1848;O;;O;;O;det. Bechly, Nov. 1996, beschrifted: Diostatoma Münsteri Germ.);O
+MB.I.1712.a;INV;http://coll.mfn-berlin.de/u/976bb9;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1712.b;INV;http://coll.mfn-berlin.de/u/8b8192;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1713;INV;http://coll.mfn-berlin.de/u/739b4a;O;Steleopteron;GEN;deichmuelleri;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996, Odonata: Anisoptera;O
+MB.I.1714.a;INV;http://coll.mfn-berlin.de/u/f22651;O;Isophlebia;GEN;aspasia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1714.b;INV;http://coll.mfn-berlin.de/u/a1d7f;O;Isophlebia;GEN;aspasia;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1715;INV;http://coll.mfn-berlin.de/u/4f0948;O;Nannogomphus;GEN;bavaricus;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;86;O;Coll. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1716;INV;http://coll.mfn-berlin.de/u/6fdd3b;O;Odonata;ORD;indet.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Handlirsch;O;1906;O;;O;Slg.v.Münster;O;det. Bechly, Nov. 1996;O
+MB.I.1717;INV;http://coll.mfn-berlin.de/u/e0bbe4;O;Urogomphus;GEN;giganteus;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Redenbacher;O;;O
+MB.I.1718.a-b;INV;http://coll.mfn-berlin.de/u/e0bcec;O;Urogomphus;GEN;giganteus;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Hagen;O;1866;O;;O;Slg. Haberlein, 1880;O;;O
+MB.I.1719;INV;http://coll.mfn-berlin.de/u/b901a0;O;Aeschnogomphus;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Handlirsch;O;1906;O;89;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996, Odonata: Anisoptera;O
+MB.I.1720;INV;http://coll.mfn-berlin.de/u/6619bf;O;Aeschnogomphus;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;;O;Slg. Münster;O;det. Bechly, Nov. 1996;O
+MB.I.1721.a;INV;http://coll.mfn-berlin.de/u/b457d1;O;Aeschnogomphus;GEN;sp.;SPE;Solnhofen;LOC;Oberer Jura, Malm zeta 2;STR;Münster in Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1721.b;INV;http://coll.mfn-berlin.de/u/581af5;O;Aeschnogomphus;GEN;sp.;SPE;Solnhofen;LOC;Oberer Jura, Malm zeta 2;STR;Münster in Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1722.a;INV;http://coll.mfn-berlin.de/u/9cd0c4;O;Aeschnogomphus;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1722.b;INV;http://coll.mfn-berlin.de/u/2ff6fa;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1723.a;INV;http://coll.mfn-berlin.de/u/adc206;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1723.b;INV;http://coll.mfn-berlin.de/u/8db8a7;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1724;INV;http://coll.mfn-berlin.de/u/318cc8;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1725;INV;http://coll.mfn-berlin.de/u/772a18;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Germar;O;1839;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1726;INV;http://coll.mfn-berlin.de/u/41cdce;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1727;INV;http://coll.mfn-berlin.de/u/6196e9;O;Protolindenia;GEN;wittei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;;O;;O;det. Bechly, Nov. 1996;O
+MB.I.1728;INV;http://coll.mfn-berlin.de/u/6bf390;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1729.a;INV;http://coll.mfn-berlin.de/u/eccb10;O;Protolindenia;GEN;wittei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1729.b;INV;http://coll.mfn-berlin.de/u/29f83e;O;Mesuropetala;GEN;koehleri;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1730;INV;http://coll.mfn-berlin.de/u/da4188;O;Mesuropetala;GEN;koehleri;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;86;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996, Odonata: Anisoptera;O
+MB.I.1731;INV;http://coll.mfn-berlin.de/u/99e1aa;O;Morbaeschna;GEN;münsteri;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1732;INV;http://coll.mfn-berlin.de/u/a37d4f;O;Morbaeschna;GEN;münsteri;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996, Odonata: Anisoptera;O
+MB.I.1733.a;INV;http://coll.mfn-berlin.de/u/e0bcdd;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Hagen;O;1848;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1733.b;INV;http://coll.mfn-berlin.de/u/d7b267;O;Stenophlebia;GEN;latreillei;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Hagen;O;1848;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1734.a;INV;http://coll.mfn-berlin.de/u/ed3261;O;Nannogomphus;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Germar;O;1859;O;42;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1734.b;INV;http://coll.mfn-berlin.de/u/94071e;O;Tarsophlebia;GEN;eximia;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Germar;O;1859;O;42a;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1735.a;INV;http://coll.mfn-berlin.de/u/718258;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1735.b;INV;http://coll.mfn-berlin.de/u/b0dda3;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;;O;Slg. Redenbacher;O;;O
+MB.I.1736;INV;http://coll.mfn-berlin.de/u/e84aa2;O;Cymatophlebia;GEN;sp.;SPE;Eichstätt;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Münster;O;det. Bechly, Nov. 1996, Odonata: Anisoptera;O
+MB.I.1737;INV;http://coll.mfn-berlin.de/u/dd4b97;O;Malmagrion;GEN;eichstaettense;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;;O;Coll. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1738;INV;http://coll.mfn-berlin.de/u/78a893;O;Nannogomphus;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;Germar;O;1839;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1739;INV;http://coll.mfn-berlin.de/u/e48597;O;Nannogomphus;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;88;O;Coll. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1740;INV;http://coll.mfn-berlin.de/u/5c2391;O;Tarsophlebia;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;;O;;O;det. Bechly, Nov. 1996;O
+MB.I.1741;INV;http://coll.mfn-berlin.de/u/a3d934;O;Aeschnogomphus;GEN;intermedius;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;89;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1742.a;INV;http://coll.mfn-berlin.de/u/e0bd39;O;Aeschnogomphus;GEN;intermedius;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1742.b;INV;http://coll.mfn-berlin.de/u/f15691;O;Nannogomphus;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1743;INV;http://coll.mfn-berlin.de/u/260c9c;O;Tarsophlebia;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk ob. Jura;STR;;O;;O;88;O;Slg. Häberlein 1880;O;det. Bechly, Nov. 1996;O
+MB.I.1744;INV;http://coll.mfn-berlin.de/u/79f274;O;Malmagrion;GEN;eichstaettense;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ob. Jura;STR;Hagen;O;1848;O;;O;;O;;O
+MB.I.1745;INV;http://coll.mfn-berlin.de/u/9422d;O;Malmagrion;GEN;eichstaettense;SPE;Eichstätt ;LOC;Solnhofener Plattenkalk Oberer Malm;STR;Hagen;O;1848;O;Inv. - Nr. 1995.4;O;Slg. Kaufmann;O;det. Bechly, Nov. 1996;O
+MB.I.1746.a;INV;http://coll.mfn-berlin.de/u/93d8de;O;Protolindenia;GEN;wittei;SPE;vermutlich Eichstätt ;LOC;Solnhofener Plattenkalk Oberer Malm;STR;;O;;O;Inv. - Nr. 1995.4;O;Slg. Kaufmann;O;det. Bechly, Nov. 1996;O
+MB.I.1746.b;INV;http://coll.mfn-berlin.de/u/cce803;O;Protolindenia;GEN;wittei;SPE;vermutlich Eichstätt ;LOC;Solnhofener Plattenkalk Oberer Malm;STR;;O;;O;Inv. - Nr. 1995.4;O;Slg. Kaufmann;O;det. Bechly, Nov. 1997;O
+MB.I.1747.a;INV;http://coll.mfn-berlin.de/u/eb2ea7;O;Cymatophlebia;GEN;longialata;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;MB.1995.4;O;Slg. Kaufmann;O;;O
+MB.I.1747.b;INV;http://coll.mfn-berlin.de/u/56d29;O;Tarsophlebia;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;MB.1995.4;O;Slg. Kaufmann;O;;O
+MB.I.1748.a;INV;http://coll.mfn-berlin.de/u/88dc60;O;Cymatophlebia;GEN;sp.;SPE;Eichstätt;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;;O;det. Kuntzen, Zool. Mus. Bln. Aus Nachlaß kuntzen;O
+MB.I.1748.b;INV;http://coll.mfn-berlin.de/u/aceeb6;O;Tarsophlebia;GEN;eximia;SPE;Eichstätt;LOC;Solnhofener Plattenkalk ob. Jura;STR;Giebel;O;1860;O;;O;;O;det. Kuntzen, Zool. Mus. Bln. Aus Nachlaß kuntzen;O
+MB.I.1749;INV;http://coll.mfn-berlin.de/u/1fcc39;O;Insecta;CLASS;indet.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;Germar;O;1839;O;Inv.-Nr. 1969.54.90;O;Slg. Rühle von Lilienstern;O;det. Bechly, Nov. 1996;O
+MB.I.1750;INV;http://coll.mfn-berlin.de/u/414e2d;O;Cymatophlebia;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;;O;Slg. Redenbacher;O;det. Bechly, Nov. 1996;O
+MB.I.1751;INV;http://coll.mfn-berlin.de/u/15cf99;O;Cymatophlebia;GEN;sp.;SPE;Solnhofen;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;Inv.-Nr.1973.17.14;O;Slg. Schlutter;O;det. Bechly, Nov. 1996;O
+MB.I.1752;INV;http://coll.mfn-berlin.de/u/a5b536;O;Myrmicium;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Hagen;O;1862;O;MB.1969.54.91;O;Slg. Rühle v. Lilienstern;O;det. Bechly, Nov. 1996;O
+MB.I.1753;INV;http://coll.mfn-berlin.de/u/3fcf65;O;Myrmicium;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;MB.1969.54.92;O;Slg. Rühle v. Lilienstern;O;det. Bechly, Nov. 1996;O
+MB.I.1754.a;INV;http://coll.mfn-berlin.de/u/103d02;O;Myrmicium;GEN;sp.;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;Inv.-Nr.1995.4;O;Slg. Kaufmann;O;det. Bechly, Nov. 1996;O
+MB.I.1754.b;INV;http://coll.mfn-berlin.de/u/d9bbca;O;Hexagenites;GEN;sp.;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk Ob. Jura;STR;;O;;O;Inv.-Nr.1995.4;O;Slg. Kaufmann;O;det. Bechly, Nov. 1996;O
+MB.I.1755.a;INV;http://coll.mfn-berlin.de/u/9407c5;O;Hexagenites;GEN;cellulosus;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk oberer Malm;STR;;O;;O;MB.1995.4, 141;O;Coll. Kaufmann, 1995;O;;O
+MB.I.1755.b;INV;http://coll.mfn-berlin.de/u/940821;O;Mesonepa;GEN;primordialis;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk oberer Malm;STR;;O;;O;MB.1995.4, 142;O;Coll. Kaufmann, 1995;O;;O
+MB.I.1756;INV;http://coll.mfn-berlin.de/u/9407f1;O;Mesonepa;GEN;primordialis;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;MB.1995.4;O;;O;;O
+MB.I.1757.a-b;INV;http://coll.mfn-berlin.de/u/94083a;O;Chresmoda;GEN;obscura;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;MB.1995.4;O;Coll. Kaufmann 1995;O;;O
+MB.I.1758.a-b;INV;http://coll.mfn-berlin.de/u/94072b;O;Chresmoda;GEN;obscura;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Hagen;O;1862;O;MB.1995.4;O;Coll. Kaufmann 1995, Nr. 337;O;;O
+MB.I.1759.a;INV;http://coll.mfn-berlin.de/u/9b0f18;O;Pycnophlebia;GEN;speciosa;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk Malm, Jura;STR;Germar;O;1839;O;Inv.-Nr.MB..1995.4, 139;O;Coll. Kaufmann, 1975;O;;O
+MB.I.1759.b;INV;http://coll.mfn-berlin.de/u/9407e9;O;Urogomphus;GEN;eximius;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk Malm, Jura;STR;Germar;O;1839;O;Inv.-Nr.MB..1995.4, 140;O;Coll. Kaufmann, 1975;O;;O
+MB.I.1895;INV;http://coll.mfn-berlin.de/u/3ab8a8;O;Orthoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;MB.1998.1;O;Slg. Edinger;O;;O
+MB.I.1896;INV;http://coll.mfn-berlin.de/u/61ae0f;O;Orthoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;MB.1998.1, 69/58;O;Coll. Häberlein 1880;O;;O
+MB.I.1897;INV;http://coll.mfn-berlin.de/u/9407ef;O;Eocicada;GEN;lameeri;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;Germar;O;1839;O;MB.1998.1;O;Coll. Edinger;O;;O
+MB.I.1898;INV;http://coll.mfn-berlin.de/u/9407eb;O;Eocicada;GEN;lameeri;SPE;Schönau, Bayern, Deutschland;LOC;Solnhofener Plattenkalk Malm, Jura;STR;Handlirsch;O;1908;O;Inv.-Nr. MB.1998.1;O;Coll. Edinger;O;;O
+MB.I.1899.a;INV;http://coll.mfn-berlin.de/u/940819;O;Apocrita;GEN;aculeata;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;MB.1995.4;O;Slg. Häberlein 1880;O;;O
+MB.I.1899.b;INV;http://coll.mfn-berlin.de/u/9407b7;O;Anaxyelidae;FAM;indet.;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;MB.1995.4;O;Slg. Häberlein 1880;O;;O
+MB.I.1900.a;INV;http://coll.mfn-berlin.de/u/9407ec;O;Prosyntexis;GEN;gouleti;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk oberer Malm;STR;Handlirsch;O;1906;O;MB.1995.4;O;Slg. Kaufmann;O;;O
+MB.I.1900.b;INV;http://coll.mfn-berlin.de/u/9407c6;O;Cratephialtites;GEN;kourius;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk oberer Malm;STR;Handlirsch;O;1906;O;MB.1995.4;O;Slg. Kaufmann;O;;O
+MB.I.2002;INV;http://coll.mfn-berlin.de/u/fb9a0c;O;Architiphia;GEN;rasnitsyn;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 159;O;det. Rasnitsyn, 1999;O
+MB.I.2003;INV;http://coll.mfn-berlin.de/u/5f2d23;O;Architiphia;GEN;sp.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 160;O;det. Rasnitsyn, 1999;O
+MB.I.2004;INV;http://coll.mfn-berlin.de/u/bbfeb0;O;Angarosphex;GEN;magnus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Sharkey;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 163;O;det. Rasnitsyn, 1999;O
+MB.I.2005;INV;http://coll.mfn-berlin.de/u/7174e4;O;Angarosphex;GEN;magnus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Sharkey;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 164;O;det. Rasnitsyn, 1990;O
+MB.I.2006;INV;http://coll.mfn-berlin.de/u/f937ad;O;Angarosphex;GEN;parvus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 165;O;det. Rasnitsyn, 1999;O
+MB.I.2007;INV;http://coll.mfn-berlin.de/u/630da1;O;Cretoproscolia;GEN;josai;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 166;O;det. Rasnitsyn, 1999;O
+MB.I.2008;INV;http://coll.mfn-berlin.de/u/c76b8b;O;Angarosphex;GEN;parvus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 167;O;det. Rasnitsyn, 1999;O
+MB.I.2009;INV;http://coll.mfn-berlin.de/u/2a301c;O;Angarosphex;GEN;magnus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 168;O;det. Rasnitsyn, 1999;O
+MB.I.2010;INV;http://coll.mfn-berlin.de/u/e871e7;O;Cretoproscolia;GEN;sp.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 170;O;det. Rasnitsyn, 1999;O
+MB.I.2011;INV;http://coll.mfn-berlin.de/u/51d0f;O;Angarosphex;GEN;magnus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Rasnitsyn & Martínez-Delclòs, 1999;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 170;O;det. Rasnitsyn, 1999;O
+MB.I.2012;INV;http://coll.mfn-berlin.de/u/555cf3;O;Angarosphex;GEN;parvus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 170;O;det. Rasnitsyn, 1999;O
+MB.I.2013;INV;http://coll.mfn-berlin.de/u/20f02d;O;Diplura;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 172;O;det. Rasnitsyn, 1999;O
+MB.I.2014;INV;http://coll.mfn-berlin.de/u/d27a02;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Rasnitsyn & Martínez-Delclòs, 1999;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 173;O;det. Rasnitsyn, 1999;O
+MB.I.2015;INV;http://coll.mfn-berlin.de/u/212d20;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 174;O;det. Rasnitsyn, 1999;O
+MB.I.2016;INV;http://coll.mfn-berlin.de/u/595777;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Darling;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 170;O;det. Rasnitsyn, 1999;O
+MB.I.2017;INV;http://coll.mfn-berlin.de/u/580c9f;O;Pristiplocia;GEN;rupestris;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 1;O;;O
+MB.I.2018;INV;http://coll.mfn-berlin.de/u/160827;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;15;O;gek. V. Schwickert;O;;O
+MB.I.2019;INV;http://coll.mfn-berlin.de/u/af46e1;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;16;O;gek. V. Schwickert;O;;O
+MB.I.2020;INV;http://coll.mfn-berlin.de/u/7c1e22;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;17;O;gek. V. Schwickert;O;;O
+MB.I.2021;INV;http://coll.mfn-berlin.de/u/917e38;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;M´Cafferty;O;1990;O;18;O;gek. V. Schwickert;O;;O
+MB.I.2022;INV;http://coll.mfn-berlin.de/u/67613c;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;19;O;gek. V. Schwickert;O;;O
+MB.I.2023;INV;http://coll.mfn-berlin.de/u/2ddb7d;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;20;O;gek. V. Schwickert;O;;O
+MB.I.2024;INV;http://coll.mfn-berlin.de/u/ade234;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;21;O;gek. V. Schwickert;O;;O
+MB.I.2025;INV;http://coll.mfn-berlin.de/u/a67623;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;22;O;gek. V. Schwickert;O;;O
+MB.I.2026;INV;http://coll.mfn-berlin.de/u/9ae7e1;O;Protoligoneuria;GEN;limai;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;23;O;gek. V. Schwickert;O;;O
+MB.I.2027;INV;http://coll.mfn-berlin.de/u/2b2652;O;Protoligoneuria;GEN;limai;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;24;O;gek. V. Schwickert;O;;O
+MB.I.2028;INV;http://coll.mfn-berlin.de/u/d84f6b;O;Protoligoneuria;GEN;limai;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;25;O;gek. V. Schwickert;O;;O
+MB.I.2029;INV;http://coll.mfn-berlin.de/u/71fbff;O;Protoligoneuria;GEN;limai;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;26;O;gek. V. Schwickert;O;;O
+MB.I.2030;INV;http://coll.mfn-berlin.de/u/9e8512;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Demoulin;O;1955;O;28;O;gek. V. Schwickert;O;;O
+MB.I.2031;INV;http://coll.mfn-berlin.de/u/46dc5b;O;Ephemeroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Demoulin;O;1955;O;27;O;gek. V. Schwickert;O;;O
+MB.I.2032;INV;http://coll.mfn-berlin.de/u/ebfc4d;O;Nothomacromia;GEN;sensibilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Demoulin;O;1955;O;29;O;gek. V. Schwickert;O;;O
+MB.I.2033;INV;http://coll.mfn-berlin.de/u/6343ba;O;Nothomacromia;GEN;sensibilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Demoulin;O;1955;O;30;O;gek. V. Schwickert;O;;O
+MB.I.2034;INV;http://coll.mfn-berlin.de/u/5c4e75;O;Nothomacromia;GEN;sensibilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;76;O;gek. V. Schwickert;O;;O
+MB.I.2035;INV;http://coll.mfn-berlin.de/u/aa7494;O;Nothomacromia;GEN;sensibilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;77;O;gek. V. Schwickert;O;;O
+MB.I.2036;INV;http://coll.mfn-berlin.de/u/cf7648;O;Nothomacromia;GEN;sensibilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1993.3;O;gek. V. Schwickert, Nr. 31;O;;O
+MB.I.2037;INV;http://coll.mfn-berlin.de/u/ae3f4b;O;Wightonia;GEN;araripena;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1993.3;O;gek. V. Schwickert, Nr. 32, Bechly Nr. B47;O;;O
+MB.I.2038;INV;http://coll.mfn-berlin.de/u/f5eddc;O;Cordulagomphinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1993.3;O;gek. V. Schwickert, Nr. 38, Bechly Nr. C47;O;;O
+MB.I.2039;INV;http://coll.mfn-berlin.de/u/88148f;O;Cordulagomphinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 34, Bechly Nr. C48a;O;;O
+MB.I.2040;INV;http://coll.mfn-berlin.de/u/e61f5b;O;Cordulagomphinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1993.3;O;gek. V. Schwickert, Nr. 35, Bechly Nr. 1005;O;;O
+MB.I.2041;INV;http://coll.mfn-berlin.de/u/fd44d2;O;Cordulagomphinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1993.3;O;gek. V. Schwickert, Nr. 36, Bechly Nr. D28;O;;O
+MB.I.2042;INV;http://coll.mfn-berlin.de/u/1c608d;O;Cordulagomphinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 37, Bechly Nr. B55;O;;O
+MB.I.2043;INV;http://coll.mfn-berlin.de/u/7d6d7f;O;Araripelinpanshania;GEN;annesusae;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 38, Bechly Nr. D12;O;;O
+MB.I.2044;INV;http://coll.mfn-berlin.de/u/451718;O;Gomphaeschnaoides;GEN;obliquus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 39, Bechly Nr. C41;O;;O
+MB.I.2045;INV;http://coll.mfn-berlin.de/u/94a101;O;Aeshnidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 40, Bechly Nr. 1015;O;;O
+MB.I.2046;INV;http://coll.mfn-berlin.de/u/3eafc5;O;Euarchistigma;GEN;atrophium;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 41;O;;O
+MB.I.2047;INV;http://coll.mfn-berlin.de/u/857dcc;O;Cordulagomphus;GEN;fenestratus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 42, Bechly Nr. D58;O;;O
+MB.I.2048;INV;http://coll.mfn-berlin.de/u/3061b5;O;Cordulagomphus;GEN;fenestratus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Wighton;O;1987;O;MB.1999.3;O;gek. V. Schwickert, Nr. 43, Bechly Nr. D11;O;;O
+MB.I.2049;INV;http://coll.mfn-berlin.de/u/67d8d4;O;Eoprotoneura;GEN;hyperstigma;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 44, Bechly Nr. C46;O;;O
+MB.I.2050;INV;http://coll.mfn-berlin.de/u/474f66;O;Parahemiphlebia;GEN;cretacica;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1999.3;O;gek. V. Schwickert, Nr. 45, Bechly Nr. D29;O;;O
+MB.I.2051;INV;http://coll.mfn-berlin.de/u/de56c8;O;Cretarchistigma;GEN;essweine;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Carle und Wighton;O;1990;O;MB.1993.3;O;gek. V. Schwickert, Nr. 46, Bechly Nr. 046;O;;O
+MB.I.2052;INV;http://coll.mfn-berlin.de/u/b30172;O;Cretarchistigma;GEN;essweine;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert;O;;O
+MB.I.2053;INV;http://coll.mfn-berlin.de/u/1e45a1;O;Araripegomphus;GEN;andreneli;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 48, Bechly Nr. C23;O;;O
+MB.I.2054;INV;http://coll.mfn-berlin.de/u/106255;O;Arariphlebia;GEN;mirabilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert, Nr. 49, Bechly Nr. D37;O;;O
+MB.I.2055;INV;http://coll.mfn-berlin.de/u/b038cf;O;Dermaptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Bechly;O;1998;O;MB.1999.3;O;gek. V. Schwickert, Nr. 50, Bechly Nr. D52;O;;O
+MB.I.2056;INV;http://coll.mfn-berlin.de/u/7fe38e;O;Mantodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Bechly;O;1998;O;MB.1999.3;O;gek. V. Schwickert, Nr. 51, Bechly Nr. L24;O;;O
+MB.I.2057;INV;http://coll.mfn-berlin.de/u/8450e9;O;Meiatermes;GEN;araripena;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Bechly;O;1998;O;MB.1999.3;O;gek. V. Schwickert, Nr. 214, Bechly Nr. D10;O;;O
+MB.I.2058;INV;http://coll.mfn-berlin.de/u/3e4ae2;O;Mariconitermes;GEN;talicei;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Bechly;O;1998;O;MB.1999.3;O;gek. V. Schwickert, Nr. 215, Bechly Nr. D45;O;;O
+MB.I.2059;INV;http://coll.mfn-berlin.de/u/e349ab;O;Mariconitermes;GEN;talicei;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.52;O;;O
+MB.I.2060;INV;http://coll.mfn-berlin.de/u/bf7368;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 53;O;det. D. Grimaldi 2007;O
+MB.I.2061;INV;http://coll.mfn-berlin.de/u/8fd608;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 54;O;det. D. Grimaldi 2007;O
+MB.I.2062;INV;http://coll.mfn-berlin.de/u/ce42da;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 55;O;det. D. Grimaldi 2007;O
+MB.I.2063;INV;http://coll.mfn-berlin.de/u/486f44;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Fontes und Vulucano;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 56;O;det. D. Grimaldi 2007;O
+MB.I.2064;INV;http://coll.mfn-berlin.de/u/c70b4e;O;Santanmantis;GEN;axelrodi;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 57;O;;O
+MB.I.2065;INV;http://coll.mfn-berlin.de/u/3ef28c;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 58;O;;O
+MB.I.2066;INV;http://coll.mfn-berlin.de/u/c8fbda;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.59;O;;O
+MB.I.2067;INV;http://coll.mfn-berlin.de/u/c52776;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 60;O;;O
+MB.I.2068;INV;http://coll.mfn-berlin.de/u/8a2263;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;Grimaldi;O;;O;MB.1993.3;O;gek. V. Schwickert, Nr. 61;O;det. D. Grimaldi 2007;O
+MB.I.2069;INV;http://coll.mfn-berlin.de/u/89d075;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.62;O;;O
+MB.I.2070;INV;http://coll.mfn-berlin.de/u/921c53;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.63;O;;O
+MB.I.2071;INV;http://coll.mfn-berlin.de/u/74295f;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.64;O;;O
+MB.I.2072;INV;http://coll.mfn-berlin.de/u/1ef062;O;Blattodea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 65;O;;O
+MB.I.2073;INV;http://coll.mfn-berlin.de/u/180bea;O;Gryllacrididae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 66;O;;O
+MB.I.2074;INV;http://coll.mfn-berlin.de/u/bc0240;O;Schizodactylus;GEN;groeningae;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 67;O;;O
+MB.I.2075;INV;http://coll.mfn-berlin.de/u/8cd15c;O;Araripegryllus;GEN;sp.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 161;O;det. Rasnitsyn, 1999;O
+MB.I.2076;INV;http://coll.mfn-berlin.de/u/cb87f3;O;Oecanthidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 162;O;;O
+MB.I.2078;INV;http://coll.mfn-berlin.de/u/3d1cd4;O;Araripegryllus;GEN;composae;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 69;O;;O
+MB.I.2079;INV;http://coll.mfn-berlin.de/u/fbe936;O;Tettogonioidea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 70;O;;O
+MB.I.2080;INV;http://coll.mfn-berlin.de/u/f6487f;O;Cratoelcana;GEN;zessini;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 71;O;;O
+MB.I.2081;INV;http://coll.mfn-berlin.de/u/33c0d8;O;Tettogonioidea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.72;O;;O
+MB.I.2082;INV;http://coll.mfn-berlin.de/u/b475b1;O;Gryllotalpidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 73;O;;O
+MB.I.2083;INV;http://coll.mfn-berlin.de/u/4be4b3;O;Araripemyrmecophilops;GEN;gracilis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 74;O;;O
+MB.I.2084;INV;http://coll.mfn-berlin.de/u/9c80b7;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 75;O;;O
+MB.I.2085;INV;http://coll.mfn-berlin.de/u/4826ab;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 78;O;;O
+MB.I.2086;INV;http://coll.mfn-berlin.de/u/1a5625;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr. 79;O;;O
+MB.I.2087;INV;http://coll.mfn-berlin.de/u/5b3e89;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 80;O;;O
+MB.I.2088;INV;http://coll.mfn-berlin.de/u/51fc01;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.81;O;;O
+MB.I.2089;INV;http://coll.mfn-berlin.de/u/162195;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.82;O;;O
+MB.I.2090;INV;http://coll.mfn-berlin.de/u/e99dbc;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.83;O;;O
+MB.I.2091;INV;http://coll.mfn-berlin.de/u/88de3b;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.84;O;;O
+MB.I.2092;INV;http://coll.mfn-berlin.de/u/be679;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.85;O;;O
+MB.I.2093;INV;http://coll.mfn-berlin.de/u/b21706;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.86;O;;O
+MB.I.2094;INV;http://coll.mfn-berlin.de/u/fde155;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.87;O;;O
+MB.I.2095;INV;http://coll.mfn-berlin.de/u/550679;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.88;O;;O
+MB.I.2096;INV;http://coll.mfn-berlin.de/u/c45784;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.89;O;;O
+MB.I.2097;INV;http://coll.mfn-berlin.de/u/a36f5f;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.90;O;;O
+MB.I.2098;INV;http://coll.mfn-berlin.de/u/957383;O;Auchenorrhyncha;SUBOR;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.91;O;;O
+MB.I.2099;INV;http://coll.mfn-berlin.de/u/3de922;O;Colossocossu;GEN;giganticus;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.92;O;;O
+MB.I.2100;INV;http://coll.mfn-berlin.de/u/5cfce4;O;Nepidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.93;O;;O
+MB.I.2101;INV;http://coll.mfn-berlin.de/u/7d1006;O;Belostomatidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.94;O;;O
+MB.I.2102;INV;http://coll.mfn-berlin.de/u/6c5e1c;O;Belostomatidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.96;O;;O
+MB.I.2103;INV;http://coll.mfn-berlin.de/u/588d9;O;Naucoridae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.213;O;det. Menon & Heads 2005;O
+MB.I.2104;INV;http://coll.mfn-berlin.de/u/3cbac2;O;Nepomorpha;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 97;O;;O
+MB.I.2105;INV;http://coll.mfn-berlin.de/u/37b8a3;O;Notonectidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 98;O;;O
+MB.I.2106;INV;http://coll.mfn-berlin.de/u/af70e0;O;Notonectidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 99;O;;O
+MB.I.2107;INV;http://coll.mfn-berlin.de/u/44e5f;O;Notonectidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 100;O;;O
+MB.I.2108;INV;http://coll.mfn-berlin.de/u/3a54bd;O;Nepomorpha;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 101;O;;O
+MB.I.2109;INV;http://coll.mfn-berlin.de/u/54c3a;O;Nepomorpha;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.102;O;;O
+MB.I.2110;INV;http://coll.mfn-berlin.de/u/f034d6;O;Hydrometridae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.103;O;;O
+MB.I.2111;INV;http://coll.mfn-berlin.de/u/8b269c;O;Hydrometridae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.104;O;;O
+MB.I.2112;INV;http://coll.mfn-berlin.de/u/62516f;O;Tettigonioidea;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.105;O;;O
+MB.I.2113;INV;http://coll.mfn-berlin.de/u/5fa61;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr.106;O;;O
+MB.I.2114;INV;http://coll.mfn-berlin.de/u/161dc1;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 107;O;;O
+MB.I.2115;INV;http://coll.mfn-berlin.de/u/84307d;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 108;O;;O
+MB.I.2116;INV;http://coll.mfn-berlin.de/u/ac51ed;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 109;O;;O
+MB.I.2117;INV;http://coll.mfn-berlin.de/u/85e216;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 110;O;;O
+MB.I.2118;INV;http://coll.mfn-berlin.de/u/ef7ac;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 111;O;;O
+MB.I.2119;INV;http://coll.mfn-berlin.de/u/bfd1f6;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 112;O;;O
+MB.I.2120;INV;http://coll.mfn-berlin.de/u/851a4a;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 113;O;;O
+MB.I.2121;INV;http://coll.mfn-berlin.de/u/4019c5;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 114;O;;O
+MB.I.2122;INV;http://coll.mfn-berlin.de/u/e4f21a;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 115;O;;O
+MB.I.2123;INV;http://coll.mfn-berlin.de/u/9dfab4;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 116;O;;O
+MB.I.2124;INV;http://coll.mfn-berlin.de/u/8878ff;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.117;O;;O
+MB.I.2125;INV;http://coll.mfn-berlin.de/u/af7956;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.118;O;;O
+MB.I.2126;INV;http://coll.mfn-berlin.de/u/8d7ed8;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.119;O;;O
+MB.I.2127;INV;http://coll.mfn-berlin.de/u/5b0872;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.120;O;;O
+MB.I.2128;INV;http://coll.mfn-berlin.de/u/cbef3f;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 121;O;;O
+MB.I.2129;INV;http://coll.mfn-berlin.de/u/16bcf4;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.122;O;;O
+MB.I.2130;INV;http://coll.mfn-berlin.de/u/14644a;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 123;O;;O
+MB.I.2131;INV;http://coll.mfn-berlin.de/u/bdccd2;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 124;O;;O
+MB.I.2132;INV;http://coll.mfn-berlin.de/u/d2aaf6;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.125;O;;O
+MB.I.2133;INV;http://coll.mfn-berlin.de/u/a751da;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.126;O;;O
+MB.I.2134;INV;http://coll.mfn-berlin.de/u/fbcaa8;O;Heteroptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.127;O;;O
+MB.I.2135;INV;http://coll.mfn-berlin.de/u/80b5d2;O;Rhaphidioptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 128;O;;O
+MB.I.2136;INV;http://coll.mfn-berlin.de/u/7c6680;O;Rhaphidioptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 129;O;;O
+MB.I.2137;INV;http://coll.mfn-berlin.de/u/7f21af;O;Rhaphidioptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.137;O;;O
+MB.I.2138;INV;http://coll.mfn-berlin.de/u/e43097;O;Rhaphidioptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert Nr.131;O;;O
+MB.I.2139;INV;http://coll.mfn-berlin.de/u/304b44;O;Megaloptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 132;O;;O
+MB.I.2140;INV;http://coll.mfn-berlin.de/u/e96492;O;Limaiinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 133;O;;O
+MB.I.2141;INV;http://coll.mfn-berlin.de/u/92b032;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 134;O;;O
+MB.I.2142;INV;http://coll.mfn-berlin.de/u/9f162;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 135;O;;O
+MB.I.2143;INV;http://coll.mfn-berlin.de/u/433118;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 136;O;;O
+MB.I.2144;INV;http://coll.mfn-berlin.de/u/645c06;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 137;O;;O
+MB.I.2145;INV;http://coll.mfn-berlin.de/u/79bc41;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 148;O;;O
+MB.I.2146;INV;http://coll.mfn-berlin.de/u/56b5e2;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 139;O;;O
+MB.I.2147;INV;http://coll.mfn-berlin.de/u/fb0d1d;O;Planipennia;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 140;O;;O
+MB.I.2148;INV;http://coll.mfn-berlin.de/u/acaf4e;O;Hemerobiidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 141;O;;O
+MB.I.2149;INV;http://coll.mfn-berlin.de/u/ae1baa;O;Hemerobiidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 142;O;;O
+MB.I.2150;INV;http://coll.mfn-berlin.de/u/80e4f1;O;Hemerobiidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 143;O;;O
+MB.I.2151;INV;http://coll.mfn-berlin.de/u/50fe17;O;Myrmeleontidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 144;O;;O
+MB.I.2152;INV;http://coll.mfn-berlin.de/u/19a427;O;Myrmeleontidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 145;O;;O
+MB.I.2153;INV;http://coll.mfn-berlin.de/u/4290a2;O;Nemopteridae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 146;O;;O
+MB.I.2154;INV;http://coll.mfn-berlin.de/u/ecd153;O;Nemopteridae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 147;O;;O
+MB.I.2155;INV;http://coll.mfn-berlin.de/u/f66c6c;O;Myrmeleontidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 146;O;;O
+MB.I.2156;INV;http://coll.mfn-berlin.de/u/3930e7;O;Brogniartiellidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 149;O;;O
+MB.I.2157;INV;http://coll.mfn-berlin.de/u/639bbf;O;Myrmeleontidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 150;O;;O
+MB.I.2158;INV;http://coll.mfn-berlin.de/u/ced4ae;O;Ascalaphidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 151;O;;O
+MB.I.2159;INV;http://coll.mfn-berlin.de/u/ce6a6b;O;Ascalaphidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 152;O;;O
+MB.I.2160;INV;http://coll.mfn-berlin.de/u/4581f5;O;Insecta;CLASS;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 153;O;;O
+MB.I.2161;INV;http://coll.mfn-berlin.de/u/19d301;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 154;O;;O
+MB.I.2162;INV;http://coll.mfn-berlin.de/u/d5dd81;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 155;O;;O
+MB.I.2163;INV;http://coll.mfn-berlin.de/u/b1c331;O;Passalidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 156;O;;O
+MB.I.2164;INV;http://coll.mfn-berlin.de/u/c01d0e;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 157;O;;O
+MB.I.2165;INV;http://coll.mfn-berlin.de/u/2b1e37;O;Chrysomelidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 177;O;;O
+MB.I.2166;INV;http://coll.mfn-berlin.de/u/3989b6;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 178;O;;O
+MB.I.2167;INV;http://coll.mfn-berlin.de/u/59f798;O;Sylphidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 179;O;;O
+MB.I.2168;INV;http://coll.mfn-berlin.de/u/1ced6d;O;Archostemmata;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 180;O;;O
+MB.I.2169;INV;http://coll.mfn-berlin.de/u/c6b1fb;O;Archostemmata;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 181;O;;O
+MB.I.2170;INV;http://coll.mfn-berlin.de/u/f64517;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 184;O;;O
+MB.I.2171;INV;http://coll.mfn-berlin.de/u/f99db8;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 183;O;;O
+MB.I.2172;INV;http://coll.mfn-berlin.de/u/6f3ee;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 184;O;;O
+MB.I.2173;INV;http://coll.mfn-berlin.de/u/7abade;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 185;O;;O
+MB.I.2174;INV;http://coll.mfn-berlin.de/u/c073eb;O;Aphodiinae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 186;O;;O
+MB.I.2175;INV;http://coll.mfn-berlin.de/u/3740fc;O;Curculionidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 187;O;;O
+MB.I.2176;INV;http://coll.mfn-berlin.de/u/39e74e;O;Curculionidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 188;O;;O
+MB.I.2177;INV;http://coll.mfn-berlin.de/u/93182d;O;Staphylinidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 189;O;;O
+MB.I.2178;INV;http://coll.mfn-berlin.de/u/8941b;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 190;O;;O
+MB.I.2179;INV;http://coll.mfn-berlin.de/u/83d614;O;Coleoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 191;O;;O
+MB.I.2180;INV;http://coll.mfn-berlin.de/u/cd10d1;O;Diptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 192;O;;O
+MB.I.2181;INV;http://coll.mfn-berlin.de/u/323cd0;O;Diptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 193;O;;O
+MB.I.2182;INV;http://coll.mfn-berlin.de/u/e6b304;O;Diptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 194;O;;O
+MB.I.2183;INV;http://coll.mfn-berlin.de/u/9c3099;O;Diptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 195;O;;O
+MB.I.2184;INV;http://coll.mfn-berlin.de/u/751475;O;Diptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 196;O;;O
+MB.I.2185;INV;http://coll.mfn-berlin.de/u/bf66d;O;Diptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 197;O;;O
+MB.I.2186;INV;http://coll.mfn-berlin.de/u/35a50f;O;Asilidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 198;O;;O
+MB.I.2187;INV;http://coll.mfn-berlin.de/u/feb5b0;O;Asilidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 199;O;;O
+MB.I.2188;INV;http://coll.mfn-berlin.de/u/b00c4e;O;Asilidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 200;O;;O
+MB.I.2189;INV;http://coll.mfn-berlin.de/u/9fce0f;O;Brachycera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 201;O;;O
+MB.I.2190;INV;http://coll.mfn-berlin.de/u/e54372;O;Xylomyidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 202;O;;O
+MB.I.2191;INV;http://coll.mfn-berlin.de/u/d0b591;O;Xylomyidae;FAM;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 203;O;;O
+MB.I.2192;INV;http://coll.mfn-berlin.de/u/ae9b7d;O;Trichoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 204;O;;O
+MB.I.2193;INV;http://coll.mfn-berlin.de/u/145a80;O;Trichoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 205;O;;O
+MB.I.2194;INV;http://coll.mfn-berlin.de/u/efa369;O;Psocoptera;ORD;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 206;O;;O
+MB.I.2195;INV;http://coll.mfn-berlin.de/u/876146;O;Protoligoneuria;GEN;limai;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 207;O;;O
+MB.I.2196;INV;http://coll.mfn-berlin.de/u/be2ae3;O;Elcana;GEN;minima;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 208;O;;O
+MB.I.2197;INV;http://coll.mfn-berlin.de/u/34efea;O;Elcana;GEN;gracillima;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 209;O;;O
+MB.I.2198;INV;http://coll.mfn-berlin.de/u/6bd5a0;O;Elcana;GEN;analis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 210;O;;O
+MB.I.2199;INV;http://coll.mfn-berlin.de/u/7e29c2;O;Elcana;GEN;acuta;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 211;O;;O
+MB.I.2200;INV;http://coll.mfn-berlin.de/u/f165b8;O;Elcana;GEN;abnormis;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 212;O;;O
+MB.I.2201;INV;http://coll.mfn-berlin.de/u/3d890e;O;Liassochrysa;GEN;stigmatica;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;gek. V. Schwickert Nr. 95;O;;O
+MB.I.2204;INV;http://coll.mfn-berlin.de/u/620c05;O;Insecta;CLASS;indet.;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1999.3;O;gek. V. Schwickert;O;;O
+MB.I.25.1.a;INV;http://coll.mfn-berlin.de/u/e4daca;O;Insecta;CLASS;indet.;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Handlirsch;O;1906;O;50;O;Coll. Uni Rostock;O;;O
+MB.I.27.1.a;INV;http://coll.mfn-berlin.de/u/e4da9a;O;Insecta;CLASS;indet.;SPE;Dobbertin, Mecklenburg-Vorpommern, Deutschland;LOC;Posidonienschiefer, Lias Ꜫ, Toarcium, Lias, Jura;STR;Handlirsch;O;1906;O;19;O;Coll. Uni Rostock;O;;O
+MB.I.5046;INV;http://coll.mfn-berlin.de/u/e0bd18;O;Insecta;CLASS;indet.;SPE;Dobbertin;LOC;Lias E, Toarcium, Lias, Jura;STR;Ansorge & Schlüter;O;1990;O;LDA 301;O;Slg. Zessin;O;;O
+MB.I.6053;INV;http://coll.mfn-berlin.de/u/519062;O;Insecta;CLASS;indet.;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.6054;INV;http://coll.mfn-berlin.de/u/dc269a;O;Insecta;CLASS;indet.;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.6055;INV;http://coll.mfn-berlin.de/u/60cade;O;Orthoptera;ORD;indet.;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.6056;INV;http://coll.mfn-berlin.de/u/d0a21b;O;Ephemera;GEN;angustipennis;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.6057;INV;http://coll.mfn-berlin.de/u/7c7674;O;Ephemera;GEN;angustipennis;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.6058;INV;http://coll.mfn-berlin.de/u/4079cb;O;Ephemera;GEN;prisca;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.6060;INV;http://coll.mfn-berlin.de/u/5473da;O;Ephemera;GEN;prisca;SPE;Araripe Becken, Brasilien;LOC;Crato-Formation, Apt.-Alb. U.-Kreide;STR;;O;;O;MB.1993.3;O;Coll. Schenker;O;;O
+MB.I.6551.a-b;INV;http://coll.mfn-berlin.de/u/940802;O;Ephemera;GEN;prisca;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Rambur;O;1842;O;21-22;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6552;INV;http://coll.mfn-berlin.de/u/94081f;O;Chrysopa;GEN;velata;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Rambur;O;1842;O;20;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6553;INV;http://coll.mfn-berlin.de/u/940852;O;Chrysopa;GEN;velata;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Germar;O;1839;O;25;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6554.a-b;INV;http://coll.mfn-berlin.de/u/940807;O;Ephemera;GEN;subversa;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Germar;O;1839;O;23-24;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6555;INV;http://coll.mfn-berlin.de/u/940828;O;Apochrysa;GEN;excelsa;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Germar;O;1839;O;26;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6556;INV;http://coll.mfn-berlin.de/u/940848;O;Bittacus;GEN;beyrichi;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;34;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6557;INV;http://coll.mfn-berlin.de/u/94081b;O;Ephemera;GEN;excelsa;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;38;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6558;INV;http://coll.mfn-berlin.de/u/9407fd;O;Agrion;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;32;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6559;INV;http://coll.mfn-berlin.de/u/9407e6;O;Osmylus;GEN;multinervis;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Hagen;O;1862;O;33;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6560;INV;http://coll.mfn-berlin.de/u/940831;O;Gryllidae;FAM;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;37;O;Slg. Häberlein 1880;O;det. Assmann;O
+MB.I.6562.a-b;INV;http://coll.mfn-berlin.de/u/9407d3;O;Orthoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Hagen;O;1862;O;27-28;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6563.a-b;INV;http://coll.mfn-berlin.de/u/940822;O;Blattodea;FAM;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;40-41;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6564.a-b;INV;http://coll.mfn-berlin.de/u/9407bc;O;Blattodea;FAM;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;35-36;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.6565;INV;http://coll.mfn-berlin.de/u/940803;O;Blattodea;FAM;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;39;O;Slg. Häberlein 1880;O;det. Assmann, Zeuner 1935;O
+MB.I.6566;INV;http://coll.mfn-berlin.de/u/9407ea;O;Blattodea;FAM;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;MB.1969.54.97;O;Coll. Rühle v. Lilienstern;O;;O
+MB.I.6584;INV;http://coll.mfn-berlin.de/u/1a1d5c;O;Blattodea;FAM;indet.;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.6585;INV;http://coll.mfn-berlin.de/u/94084e;O;Blattodea;FAM;indet.;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.6586;INV;http://coll.mfn-berlin.de/u/5cf20c;O;Blattodea;FAM;indet.;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.6587;INV;http://coll.mfn-berlin.de/u/94084a;O;Telephorus;GEN;tertiarius;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.6588;INV;http://coll.mfn-berlin.de/u/9407b9;O;Insecta;CLASS;indet.;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.6589;INV;http://coll.mfn-berlin.de/u/9407b4;O;Cistela;GEN;molassica;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.6590;INV;http://coll.mfn-berlin.de/u/d58a7b;O;Libellula;GEN;doris;SPE;Nova Olinda, Araripe-Becken, Brasilien;LOC;Santana Formation, Unter-Kreide;STR;;O;;O;;O;;O;;O
+MB.I.7835;INV;http://coll.mfn-berlin.de/u/94067f;O;Ampedus;GEN;klugii;SPE;Oeningen;LOC;Miozän;STR;;O;;O;56;O;Coll. Heer;O;;O
+MB.I.7836;INV;http://coll.mfn-berlin.de/u/940816;O;Lytta;GEN;aesculapi;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk oberer Malm;STR;;O;;O;MB.1998.1;O;Slg. Edinger;O;;O
+MB.I.7837;INV;http://coll.mfn-berlin.de/u/94066d;O;Lytta;GEN;angusticollis;SPE;Oeningen;LOC;Miozän;STR;;O;;O;62;O;Coll. Heer;O;;O
+MB.I.7838;INV;http://coll.mfn-berlin.de/u/9406b9;O;Telephorus;GEN;fragilis;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7839;INV;http://coll.mfn-berlin.de/u/9406cd;O;Libellula;GEN;doris;SPE;Oeningen;LOC;Miozän;STR;;O;;O;48;O;Coll. Heer;O;;O
+MB.I.7840;INV;http://coll.mfn-berlin.de/u/9406e6;O;Lina;GEN;populeti;SPE;Oeningen;LOC;Miozän;STR;;O;;O;59;O;Coll. Heer;O;;O
+MB.I.7841;INV;http://coll.mfn-berlin.de/u/940694;O;Belostomum;GEN;buchii;SPE;Oeningen;LOC;Miozän;STR;;O;;O;60;O;Coll. Heer;O;;O
+MB.I.7842;INV;http://coll.mfn-berlin.de/u/940643;O;Libellula;GEN;eurynome;SPE;Oeningen;LOC;Miozän;STR;;O;;O;57;O;Coll. Heer;O;;O
+MB.I.7845;INV;http://coll.mfn-berlin.de/u/940679;O;Cassida;GEN;orbiculata;SPE;Oeningen;LOC;Miozän;STR;;O;;O;117;O;Coll. Heer;O;;O
+MB.I.7846;INV;http://coll.mfn-berlin.de/u/940690;O;Hister;GEN;antiquus;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;96;O;Coll. Heer;O;;O
+MB.I.7847;INV;http://coll.mfn-berlin.de/u/940670;O;Telephorus;GEN;tertiarius;SPE;Oeningen ;LOC;Obermiozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7847;INV;http://coll.mfn-berlin.de/u/9406c9;O;Libellula;GEN;eurynome;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7848;INV;http://coll.mfn-berlin.de/u/940662;O;Elcana;GEN;minima;SPE;Oeningen;LOC;Miozän;STR;;O;;O;96;O;Coll. Heer;O;;O
+MB.I.7849;INV;http://coll.mfn-berlin.de/u/94065a;O;Ampedus;GEN;lividus;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7850;INV;http://coll.mfn-berlin.de/u/94062c;O;Formica;GEN;procera;SPE;Oeningen;LOC;Miozän;STR;;O;;O;56;O;Coll. Heer;O;;O
+MB.I.7851;INV;http://coll.mfn-berlin.de/u/9406cf;O;Hister;GEN;morosus;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7852;INV;http://coll.mfn-berlin.de/u/e0bd43;O;Ancylocheira;GEN;gracilis;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1382/2;O;Slg. Zessin;O;;O
+MB.I.7853;INV;http://coll.mfn-berlin.de/u/9406cc;O;Hister;GEN;coprolithorum;SPE;Oeningen;LOC;Miozän;STR;;O;;O;49;O;Coll. Heer;O;;O
+MB.I.7854;INV;http://coll.mfn-berlin.de/u/940629;O;Anoplitis;GEN;bremii;SPE;Oeningen;LOC;Miozän;STR;;O;;O;119c;O;Coll. Heer;O;;O
+MB.I.7855;INV;http://coll.mfn-berlin.de/u/940697;O;Libellula;GEN;thoe;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;32;O;Coll. Heer;O;;O
+MB.I.7856;INV;http://coll.mfn-berlin.de/u/940625;O;Malachius;GEN;vertumni;SPE;Oeningen;LOC;Miozän;STR;;O;;O;41;O;Coll. Heer;O;;O
+MB.I.7857;INV;http://coll.mfn-berlin.de/u/94069d;O;Anoplitis;GEN;bremii;SPE;Oeningen;LOC;Miozän;STR;;O;;O;36;O;Coll. Heer;O;;O
+MB.I.7858;INV;http://coll.mfn-berlin.de/u/940685;O;Anoplitis;GEN;bremii;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7859;INV;http://coll.mfn-berlin.de/u/9406bc;O;Anoplitis;GEN;minor;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7860;INV;http://coll.mfn-berlin.de/u/940637;O;Hister;GEN;antiquus;SPE;Oeningen;LOC;Miozän;STR;;O;;O;58;O;Coll. Heer;O;;O
+MB.I.7861;INV;http://coll.mfn-berlin.de/u/9406d1;O;Hister;GEN;maculigerus;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;89;O;Coll. Heer;O;;O
+MB.I.7862;INV;http://coll.mfn-berlin.de/u/9406b5;O;Malachius;GEN;vertumni;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;89;O;Coll. Heer;O;;O
+MB.I.7863;INV;http://coll.mfn-berlin.de/u/940653;O;Libellula;GEN;eurynome;SPE;Oeningen;LOC;Miozän;STR;;O;;O;90;O;Coll. Heer;O;;O
+MB.I.7864;INV;http://coll.mfn-berlin.de/u/9406a1;O;Formica;GEN;obesa;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;34;O;Coll. Heer;O;;O
+MB.I.7865;INV;http://coll.mfn-berlin.de/u/940624;O;Elater;GEN;tristis;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;33;O;Coll. Heer;O;;O
+MB.I.7866;INV;http://coll.mfn-berlin.de/u/940672;O;Libellula;GEN;eurynome;SPE;Oeningen;LOC;Miozän;STR;;O;;O;58;O;Coll. Heer;O;;O
+MB.I.7867;INV;http://coll.mfn-berlin.de/u/9406aa;O;Anoplitis;GEN;bremii;SPE;Oeningen;LOC;Miozän;STR;;O;;O;118a;O;Coll. Heer;O;;O
+MB.I.7868;INV;http://coll.mfn-berlin.de/u/940686;O;Rhynchites;GEN;dionysus;SPE;Oeningen;LOC;Miozän;STR;;O;;O;122.5;O;Coll. Heer;O;;O
+MB.I.7869;INV;http://coll.mfn-berlin.de/u/940696;O;Hister;GEN;antiquus;SPE;Oeningen;LOC;Miozän;STR;;O;;O;37;O;Coll. Heer;O;;O
+MB.I.7870;INV;http://coll.mfn-berlin.de/u/940639;O;Gomphocerus;GEN;atavorum;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7871;INV;http://coll.mfn-berlin.de/u/9406e3;O;Formica;GEN;obesa;SPE;Oeningen;LOC;Miozän;STR;;O;;O;89a;O;Coll. Heer;O;;O
+MB.I.7872;INV;http://coll.mfn-berlin.de/u/9406c7;O;Anoplitis;GEN;bremii;SPE;Oeningen;LOC;Miozän;STR;;O;;O;65;O;Coll. Heer;O;;O
+MB.I.7873;INV;http://coll.mfn-berlin.de/u/9406df;O;Libellula;GEN;doris;SPE;Oeningen;LOC;Miozän;STR;;O;;O;34;O;Coll. Heer;O;;O
+MB.I.7874;INV;http://coll.mfn-berlin.de/u/9406d2;O;Libellula;GEN;eurynome;SPE;Oeningen;LOC;Miozän;STR;;O;;O;113;O;Coll. Heer;O;;O
+MB.I.7876;INV;http://coll.mfn-berlin.de/u/94065e;O;Malachius;GEN;vertumni;SPE;Oeningen;LOC;Miozän;STR;;O;;O;122.1;O;Coll. Heer;O;;O
+MB.I.7877;INV;http://coll.mfn-berlin.de/u/9406b3;O;Chrysomela;GEN;indurata;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;89;O;Coll. Heer;O;;O
+MB.I.7878;INV;http://coll.mfn-berlin.de/u/94062a;O;Libellula;GEN;doris;SPE;Oeningen;LOC;Obermiozän;STR;;O;;O;3;O;Coll. Heer;O;;O
+MB.I.7879;INV;http://coll.mfn-berlin.de/u/9406b4;O;Attelobus;GEN;durus;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7880;INV;http://coll.mfn-berlin.de/u/94069b;O;Libellula;GEN;ventricosa;SPE;Oeningen;LOC;Miozän;STR;;O;;O;58;O;Coll. Heer;O;;O
+MB.I.7881;INV;http://coll.mfn-berlin.de/u/94061d;O;Cassida;GEN;blancheti;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7882;INV;http://coll.mfn-berlin.de/u/94063b;O;Cistela;GEN;spectabilis;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7883;INV;http://coll.mfn-berlin.de/u/9406c8;O;Libellula;GEN;thoe;SPE;Oeningen;LOC;Obermiozän;STR;Heer;O;;O;;O;Coll. Heer;O;;O
+MB.I.7884;INV;http://coll.mfn-berlin.de/u/940682;O;Libellula;GEN;indet.;SPE;Oeningen;LOC;Miozän;STR;;O;;O;115.6;O;Coll. Heer;O;;O
+MB.I.7885;INV;http://coll.mfn-berlin.de/u/9406af;O;Limonius;GEN;optabilis;SPE;Oeningen;LOC;Miozän;STR;;O;;O;92;O;Coll. Heer;O;;O
+MB.I.7886;INV;http://coll.mfn-berlin.de/u/9406de;O;Attelobus;GEN;denilis;SPE;Oeningen;LOC;Miozän;STR;Heer;O;;O;;O;Coll. Heer;O;;O
+MB.I.7887;INV;http://coll.mfn-berlin.de/u/940635;O;Bruchus;GEN;dubiosus;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7888;INV;http://coll.mfn-berlin.de/u/940698;O;Malachius;GEN;vertumni;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7889;INV;http://coll.mfn-berlin.de/u/9406d9;O;Formica;GEN;obesa;SPE;Oeningen;LOC;Miozän;STR;;O;;O;54;O;Coll. Heer;O;;O
+MB.I.7891;INV;http://coll.mfn-berlin.de/u/940689;O;Galeruca;GEN;microdena;SPE;Oeningen;LOC;Miozän;STR;;O;;O;67;O;Coll. Heer;O;;O
+MB.I.7893;INV;http://coll.mfn-berlin.de/u/9406e2;O;Libellula;GEN;doris;SPE;Oeningen;LOC;Miozän;STR;Heer;O;;O;;O;Coll. Heer;O;;O
+MB.I.7894;INV;http://coll.mfn-berlin.de/u/9406d0;O;Libellula;GEN;doris;SPE;Oeningen;LOC;Miozän;STR;;O;;O;58.a;O;Coll. Heer;O;;O
+MB.I.7895;INV;http://coll.mfn-berlin.de/u/940667;O;Cistela;GEN;molassica;SPE;Oeningen;LOC;Miozän;STR;;O;;O;122a;O;Coll. Heer;O;;O
+MB.I.7896;INV;http://coll.mfn-berlin.de/u/940644;O;Protomyrmeleon;GEN;brunonis;SPE;Oeningen;LOC;Miozän;STR;;O;;O;105;O;Coll. Heer;O;;O
+MB.I.7898;INV;http://coll.mfn-berlin.de/u/940626;O;Elcana;GEN;geinitzi;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7899;INV;http://coll.mfn-berlin.de/u/940671;O;Harpactor;GEN;maculipes;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7900;INV;http://coll.mfn-berlin.de/u/9406e4;O;Elcana;GEN;media;SPE;Oeningen;LOC;Miozän;STR;;O;;O;62;O;Coll. Heer;O;;O
+MB.I.7903;INV;http://coll.mfn-berlin.de/u/e0bc65;O;Elcana;GEN;geinitzi;SPE;Dobbertin;LOC;Lias;STR;Geinitz;O;1887;O;LDA 325;O;Slg. Zessin;O;;O
+MB.I.7906;INV;http://coll.mfn-berlin.de/u/9407a0;O;Eurydema;GEN;brevicollis;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1262/1/2;O;Slg. Zessin;O;;O
+MB.I.7907;INV;http://coll.mfn-berlin.de/u/940761;O;Elcana;GEN;media;SPE;Oeningen;LOC;Obermiozän;STR;Heer;O;;O;;O;Coll. Heer;O;;O
+MB.I.7909;INV;http://coll.mfn-berlin.de/u/9407a7;O;Elcana;GEN;media;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 586;O;Slg. Zessin;O;;O
+MB.I.7910;INV;http://coll.mfn-berlin.de/u/940716;O;Syromaster;GEN;coronatus;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1891/1/2;O;Slg. Zessin;O;;O
+MB.I.7916;INV;http://coll.mfn-berlin.de/u/9407ae;O;Elcana;GEN;minima;SPE;Oeningen;LOC;Obermiozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7917;INV;http://coll.mfn-berlin.de/u/94076f;O;Elcana;GEN;minima;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 2183/2;O;Slg. Zessin;O;;O
+MB.I.7918;INV;http://coll.mfn-berlin.de/u/940795;O;Elcana;GEN;geinitzi;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1340/2;O;Slg. Zessin;O;;O
+MB.I.7919;INV;http://coll.mfn-berlin.de/u/9406f1;O;Elcana;GEN;magna;SPE;Oeningen;LOC;Obermiozän;STR;Heer;O;;O;;O;Coll. Heer;O;;O
+MB.I.7920;INV;http://coll.mfn-berlin.de/u/e0bd46;O;Protomyrmeleon;GEN;brunonis;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1961;O;Slg. Zessin;O;;O
+MB.I.7923;INV;http://coll.mfn-berlin.de/u/e0bc8d;O;Gomphocerus;GEN;fischeri;SPE;Schandelah;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LS 142/2;O;Slg. Zessin;O;;O
+MB.I.7924;INV;http://coll.mfn-berlin.de/u/9406bd;O;Elcana;GEN;geinitzi;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1261/3;O;Slg. Zessin;O;;O
+MB.I.7932;INV;http://coll.mfn-berlin.de/u/e0bc4a;O;Formica;GEN;obesa;SPE;Dobbertin;LOC;Lias;STR;Handlirsch;O;1906;O;LD 1589/2;O;Slg. Zessin;O;;O
+MB.I.7934;INV;http://coll.mfn-berlin.de/u/e0bcf3;O;Elcana;GEN;magna;SPE;Dobbertin;LOC;Lias;STR;Geinitz;O;1887;O;LDA 325;O;Slg. Zessin;O;;O
+MB.I.7935;INV;http://coll.mfn-berlin.de/u/94065c;O;Elcana;GEN;geinitzi;SPE;Oeningen;LOC;Miozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7937;INV;http://coll.mfn-berlin.de/u/94062b;O;Formica;GEN;procera;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1219/2, 3;O;Slg. Zessin;O;;O
+MB.I.7938;INV;http://coll.mfn-berlin.de/u/94061e;O;Insecta;CLASS;indet.;SPE;Oeningen;LOC;Miozän;STR;;O;;O;122;O;Coll. Heer;O;;O
+MB.I.7939;INV;http://coll.mfn-berlin.de/u/e0bcbb;O;Elcana;GEN;media;SPE;Dobbertin;LOC;Lias ;STR;Handlirsch;O;1906;O;LD 2170/2;O;Slg. Zessin;O;;O
+MB.I.7940;INV;http://coll.mfn-berlin.de/u/940666;O;Elcana;GEN;media;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1458/3;O;Slg. Zessin;O;;O
+MB.I.7943;INV;http://coll.mfn-berlin.de/u/9406d7;O;Elcana;GEN;minima;SPE;Oeningen;LOC;Miozän;STR;;O;;O;119;O;Coll. Heer;O;;O
+MB.I.7944;INV;http://coll.mfn-berlin.de/u/9406e8;O;Elcana;GEN;media;SPE;Oeningen/ Sinigallia?;LOC;Obermiozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7945;INV;http://coll.mfn-berlin.de/u/94073d;O;Elcana;GEN;media;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1967/1;O;Slg. Zessin;O;;O
+MB.I.7949;INV;http://coll.mfn-berlin.de/u/94077e;O;Elcana;GEN;minima;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1506/2;O;Slg. Zessin;O;;O
+MB.I.7955;INV;http://coll.mfn-berlin.de/u/e0bd1c;O;Elcana;GEN;minima;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1960/2;O;Slg. Zessin;O;;O
+MB.I.7957;INV;http://coll.mfn-berlin.de/u/940725;O;Elcana;GEN;media;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1919/1;O;Slg. Zessin;O;;O
+MB.I.7958;INV;http://coll.mfn-berlin.de/u/940779;O;Schaumzikaden;FAM;indet.;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 2188/2;O;Slg. Zessin;O;;O
+MB.I.7959;INV;http://coll.mfn-berlin.de/u/940709;O;Elcana;GEN;geinitzi;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 1775/2;O;Slg. Zessin;O;;O
+MB.I.7964;INV;http://coll.mfn-berlin.de/u/940711;O;Elcana;GEN;geinitzi;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 2012/3;O;Slg. Zessin;O;;O
+MB.I.7965;INV;http://coll.mfn-berlin.de/u/94072f;O;Elcana;GEN;geinitzi;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 2169/2;O;Slg. Zessin;O;;O
+MB.I.7967;INV;http://coll.mfn-berlin.de/u/9406e7;O;Protomyrmeleon;GEN;brunonis;SPE;Oeningen;LOC;Obermiozän;STR;;O;;O;;O;Coll. Heer;O;;O
+MB.I.7968;INV;http://coll.mfn-berlin.de/u/9406d6;O;Zirzipanagrion;GEN;quadriordinum;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1778/2;O;Slg. Zessin;O;;O
+MB.I.7969;INV;http://coll.mfn-berlin.de/u/94078e;O;Protomyia;GEN;speciosa;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 1846/2;O;Slg. Zessin;O;;O
+MB.I.7971;INV;http://coll.mfn-berlin.de/u/940683;O;Protomyia;GEN;speciosa;SPE;Dobbertin;LOC;Oberer Lias;STR;Heer;O;1880;O;LD 2132/1;O;Slg. Zessin;O;;O
+MB.I.7972;INV;http://coll.mfn-berlin.de/u/e0bcd6;O;Elcana;GEN;media;SPE;Dobbertin;LOC;Lias;STR;Geinitz;O;1887;O;LDA 169/1;O;Slg. Zessin;O;;O
+MB.I.7976;INV;http://coll.mfn-berlin.de/u/e0bd31;O;Protomyrmeleon;GEN;brunonis;SPE;Grimmen;LOC;Lias E;STR;Zessin;O;1991;O;;O;Slg. Zessin;O;;O
+MB.I.7977;INV;http://coll.mfn-berlin.de/u/e0bbf7;O;Hymenoptera;ORD;indet.;SPE;Oeningen;LOC;Obermiozän;STR;Heer;O;;O;;O;;O;;O
+MB.I.7978;INV;http://coll.mfn-berlin.de/u/e0bc3c;O;Coleoptera;ORD;indet.;SPE;Oeningen;LOC;Obermiozän;STR;Heer;O;;O;;O;;O;;O
+MB.I.7979;INV;http://coll.mfn-berlin.de/u/940780;O;Hymenoptera;ORD;indet.;SPE;Dobbertin;LOC;Oberer Lias;STR;Handlirsch;O;1906;O;LD 2183/3;O;Slg. Zessin;O;;O
+MB.I.7989;INV;http://coll.mfn-berlin.de/u/e0bc9b;O;Hymenoptera;ORD;indet.;SPE;Dobbertin;LOC;Lias;STR;Geinitz;O;1887;O;LDA 169/2;O;Slg. Zessin;O;;O
+MB.I.8005;INV;http://coll.mfn-berlin.de/u/3ac54b;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8104;INV;http://coll.mfn-berlin.de/u/278ddf;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8107;INV;http://coll.mfn-berlin.de/u/653009;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8111;INV;http://coll.mfn-berlin.de/u/2750aa;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8112;INV;http://coll.mfn-berlin.de/u/bfa8fe;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8117;INV;http://coll.mfn-berlin.de/u/335bef;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8122;INV;http://coll.mfn-berlin.de/u/75a0f8;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8123;INV;http://coll.mfn-berlin.de/u/88f8b3;O;Insecta;CLASS;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8124;INV;http://coll.mfn-berlin.de/u/3c64cd;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8131;INV;http://coll.mfn-berlin.de/u/3d9829;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8140;INV;http://coll.mfn-berlin.de/u/34f1da;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8142;INV;http://coll.mfn-berlin.de/u/e4d98a;O;Diptera;ORD;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;;O
+MB.I.8154;INV;http://coll.mfn-berlin.de/u/953a4a;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8155;INV;http://coll.mfn-berlin.de/u/74410b;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8158;INV;http://coll.mfn-berlin.de/u/1b6d99;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8159;INV;http://coll.mfn-berlin.de/u/7de9b3;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8161;INV;http://coll.mfn-berlin.de/u/94070f;O;Insecta;CLASS;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8165;INV;http://coll.mfn-berlin.de/u/cf23a8;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8172;INV;http://coll.mfn-berlin.de/u/cfdeda;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8180;INV;http://coll.mfn-berlin.de/u/940717;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8190;INV;http://coll.mfn-berlin.de/u/a7fc4a;O;Diptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8196;INV;http://coll.mfn-berlin.de/u/86aa0;O;Coleoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8197;INV;http://coll.mfn-berlin.de/u/533cb6;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8198;INV;http://coll.mfn-berlin.de/u/96ccb8;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8204;INV;http://coll.mfn-berlin.de/u/c54879;O;Coleoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8210;INV;http://coll.mfn-berlin.de/u/8a64f;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8225;INV;http://coll.mfn-berlin.de/u/ae197;O;Insecta;CLASS;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8234;INV;http://coll.mfn-berlin.de/u/c20208;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8242;INV;http://coll.mfn-berlin.de/u/c5d6a4;O;Hymenoptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8243;INV;http://coll.mfn-berlin.de/u/926e19;O;Heteroptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8247;INV;http://coll.mfn-berlin.de/u/e4d987;O;Insecta;ORD;indet.;SPE;Douglas Pass/Loma, Colorado/USA;O;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;;O
+MB.I.8275;INV;http://coll.mfn-berlin.de/u/d55303;O;Phryganeidae;FAM;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8281;INV;http://coll.mfn-berlin.de/u/d06cd7;O;Platycleis;GEN;pongraczi;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8296;INV;http://coll.mfn-berlin.de/u/f1db82;O;Insecta;CLASS;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;;O
+MB.I.8310;INV;http://coll.mfn-berlin.de/u/e87b5d;O;Bibionidae;FAM;indet.;SPE;;O;Quartär;STR;;O;;O;;O;;O;;O
+MB.I.8313;INV;http://coll.mfn-berlin.de/u/8eeff2;O;Phryganeidae;FAM;indet.;SPE;St. Gérand le Puy (Dep. Allier);LOC;Untermiozän;STR;;O;;O;;O;;O;;O
+MB.I.8324;INV;http://coll.mfn-berlin.de/u/53405d;O;Phryganeidae;FAM;indet.;SPE;Radoboj, Kroatien;LOC;Untermiozän;STR;Zeuner;O;;O;;O;;O;;O
+MB.I.8331;INV;http://coll.mfn-berlin.de/u/22601b;O;Formicidae;FAM;indet.;SPE;Radoboj, Kroatien;LOC;Tertiär;STR;;O;;O;825;O;;O;;O
+MB.I.8332;INV;http://coll.mfn-berlin.de/u/43f22a;O;Phryganidae;FAM;incrustirs;SPE;;LOC;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8335;INV;http://coll.mfn-berlin.de/u/a18938;O;Libellulidae;FAM;indet.;SPE;St. Gérand le Puy (Dep. Allier);LOC;Untermiozän;STR;;O;;O;;O;;O;;O
+MB.I.8342;INV;http://coll.mfn-berlin.de/u/23d04d;O;Phryganeidae;FAM;indet.;SPE;St. Gérand le Puy (Dep. Allier);LOC;Untermiozän;STR;;O;;O;;O;;O;;O
+MB.I.8346;INV;http://coll.mfn-berlin.de/u/e0bbd8;O;Insecta;CLASS;indet.;SPE;Radoboj, Kroatien;LOC;Miozän;STR;;O;;O;;O;;O;;O
+MB.I.8347;INV;http://coll.mfn-berlin.de/u/a5578e;O;Platycleis;GEN;pongraczi;SPE;St. Gérand le Puy (Dep. Allier);LOC;Miozän;STR;;O;;O;;O;;O;;O
+MB.I.8350;INV;http://coll.mfn-berlin.de/u/7ff3f;O;Insecta;CLASS;indet.;SPE;Hochheim am Main;LOC;Tertiär;STR;;O;;O;11;O;gek. K. Fiocher, Frankfurt, 1905;O;;O
+MB.I.8351;INV;http://coll.mfn-berlin.de/u/ea9e92;O;Hemiptera;ORD;indet.;SPE;St. Gérand le Puy (Dep. Allier);LOC;Untermiozän;STR;;O;;O;;O;;O;;O
+MB.I.8359;INV;http://coll.mfn-berlin.de/u/2547cf;O;Hemiptera;ORD;indet.;SPE;Radoboj, Kroatien;LOC;Untermiozän;STR;Zeuner;O;;O;;O;;O;;O
+MB.I.8364;INV;http://coll.mfn-berlin.de/u/307929;O;Hemiptera;ORD;indet.;SPE;Radoboj, Kroatien;LOC;Untermiozän;STR;Zeuner;O;;O;;O;;O;;O
+MB.I.8366;INV;http://coll.mfn-berlin.de/u/605f67;O;Bruchus;GEN;bituminosus;SPE;Dörstewitz, Halle;O;Eozän;STR;;O;;O;;O;;O;;O
+MB.I.8367;INV;http://coll.mfn-berlin.de/u/2ab9c2;O;Insecta;CLASS;indet.;SPE;Girgenti, Sizilien;O;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8368;INV;http://coll.mfn-berlin.de/u/96f957;O;Phryganidae;FAM;incrustirs;SPE;Girgenti, Sizilien;LOC;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8373;INV;http://coll.mfn-berlin.de/u/2bd00e;O;Insecta;CLASS;indet.;SPE;Girgenti, Sizilien;O;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8374;INV;http://coll.mfn-berlin.de/u/a3fdf6;O;Termes;GEN;heros;SPE;;LOC;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8384;INV;http://coll.mfn-berlin.de/u/8ca8eb;O;Lepidoptera;ORD;indet.;SPE;;LOC;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8389;INV;http://coll.mfn-berlin.de/u/1501ea;O;Malachius;GEN;vertramni;SPE;St. Gérand le Puy (Dep. Allier);LOC;Miozän;STR;;O;;O;;O;;O;;O
+MB.I.8390;INV;http://coll.mfn-berlin.de/u/6faa5d;O;Rhipidorha;ORD;indet.;SPE;;LOC;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.8405;INV;http://coll.mfn-berlin.de/u/17fab1;O;Hymenoptera;ORD;indet.;SPE;Solnhofen;LOC;Oberer Jura;STR;;O;;O;103;O;Slg. Redenbacher;O;;O
+MB.I.8416;INV;http://coll.mfn-berlin.de/u/c21c9a;O;Diptera;ORD;indet.;SPE;Oeningen ;LOC;Miozän;STR;;O;;O;52;O;;O;;O
+MB.I.8418;INV;http://coll.mfn-berlin.de/u/940817;O;Coleoptera;ORD;indet.;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;;O;;O
+MB.I.8419;INV;http://coll.mfn-berlin.de/u/9407f9;O;Hemiptera;ORD;indet.;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;Coll. Krath;O;;O
+MB.I.8422;INV;http://coll.mfn-berlin.de/u/a67944;O;Formica;GEN;procera;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;;O;;O
+MB.I.843.a;INV;http://coll.mfn-berlin.de/u/271add;O;Scolia;GEN;exarata;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Germar;O;1839;O;;O;Coll. Häberlein 1880;O;;O
+MB.I.8436;INV;http://coll.mfn-berlin.de/u/577a00;O;Formica;GEN;Procera;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;8;O;;O;;O
+MB.I.8437;INV;http://coll.mfn-berlin.de/u/85a223;O;Locusta;GEN;amanda;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;;O;;O
+MB.I.8441;INV;http://coll.mfn-berlin.de/u/94075a;O;Hydrophilus;GEN;involuta;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;;O;leg. et det. A. Stroms 1952;O
+MB.I.846;INV;http://coll.mfn-berlin.de/u/94080e;O;Termes;GEN;heros;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Germar;O;1839;O;;O;Coll. Häberlein 1880;O;;O
+MB.I.8465;INV;http://coll.mfn-berlin.de/u/e8bda4;O;Platycleis;GEN;speciosa;SPE;Solnhofen;LOC;Oberer Jura;STR;;O;;O;61;O;Slg. Redenbacher;O;det. Assmann;O
+MB.I.8467;INV;http://coll.mfn-berlin.de/u/940813;O;Insecta;CLASS;indet.;SPE;Solnhofen;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Redenbacher;O;;O
+MB.I.8468;INV;http://coll.mfn-berlin.de/u/63842b;O;Diptera;ORD;indet.;SPE;Oeningen;LOC;Miozän;STR;Heer;O;;O;1108;O;Coll. Zeuner 1931;O;;O
+MB.I.847;INV;http://coll.mfn-berlin.de/u/62a210;O;Diptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Germar;O;1839;O;92b;O;Slg. Redenbacher;O;det. Dr. K. V. Lakshminarayana,  1977;O
+MB.I.8470;INV;http://coll.mfn-berlin.de/u/ec4f43;O;Insecta;ORD;indet.;SPE;Solnhofen;LOC;Oberer Jura;STR;;O;;O;93;O;gek. 1854;O;;O
+MB.I.8490;INV;http://coll.mfn-berlin.de/u/f12a92;O;Phaneroptera;ORD;indet.;SPE;Willershausen am Westharz;LOC;Ob. Pliozän;STR;;O;;O;;O;;O;leg. et det. A. Stroms 1952;O
+MB.I.850;INV;http://coll.mfn-berlin.de/u/adc511;O;Insecta;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Germar;O;1839;O;92;O;Slg. Redenbacher;O;;O
+MB.I.8501;INV;http://coll.mfn-berlin.de/u/cdf14e;O;Coleoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;MB.1969.54.100;O;Coll. Rühle v. Lilienstern;O;;O
+MB.I.8505;INV;http://coll.mfn-berlin.de/u/edc6df;O;Phaneroptera;GEN;inteseurpta;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Germar;O;;O;6;O;Slg. Häberlein 1880;O;;O
+MB.I.8509;INV;http://coll.mfn-berlin.de/u/9407cb;O;Stenophlebia;GEN;sp.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Redenbacher;O;;O
+MB.I.851;INV;http://coll.mfn-berlin.de/u/940818;O;Phaneroptera;GEN;dubia;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Germar;O;1839;O;91;O;Slg. Redenbacher;O;;O
+MB.I.8514;INV;http://coll.mfn-berlin.de/u/940835;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;MB.1998.1;O;Slg. Edinger;O;;O
+MB.I.8515;INV;http://coll.mfn-berlin.de/u/9407d5;O;Blattina;GEN;mollis;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Assmann;O;;O;14;O;Slg. Redenbacher;O;;O
+MB.I.8516;INV;http://coll.mfn-berlin.de/u/9407e5;O;Pycnophlebia;GEN;speciosa;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Germar;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8517;INV;http://coll.mfn-berlin.de/u/9407c0;O;Isoptera;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2247 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2001;O;;O
+MB.I.8518;INV;http://coll.mfn-berlin.de/u/9406c0;O;Phaneroptera;GEN;amanda;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Hagen;O;;O;8;O;Slg. Häberlein 1880;O;;O
+MB.I.8519;INV;http://coll.mfn-berlin.de/u/940830;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Assmann;O;;O;10;O;Slg. Redenbacher;O;;O
+MB.I.852;INV;http://coll.mfn-berlin.de/u/9407c1;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Germar;O;1839;O;MB.1969.54.93;O;Slg. Rühle v. Lilienstern;O;;O
+MB.I.8520;INV;http://coll.mfn-berlin.de/u/6df996;O;Hydrophilus;GEN;avitus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;84;O;Coll. Häberlein 1880;O;;O
+MB.I.8521;INV;http://coll.mfn-berlin.de/u/9407ee;O;Lina;GEN;populeti;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Germar;O;;O;;O;Slg. Redenbacher;O;;O
+MB.I.8522;INV;http://coll.mfn-berlin.de/u/940836;O;Hymenoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Coll. Redenbacher;O;;O
+MB.I.8527;INV;http://coll.mfn-berlin.de/u/9407d6;O;Scolia;GEN;obtecta;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Coll. Häberlein 1880;O;;O
+MB.I.8528;INV;http://coll.mfn-berlin.de/u/940806;O;Asilicus;GEN;lithophilas;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8529;INV;http://coll.mfn-berlin.de/u/9ac8cb;O;Auchenorrhyncha;SUBOR;indet.;SPE;Eichstätt;LOC;Solnhofener Plattenkalk, Malm, Jura;STR;;O;;O;;O;Slg. Kaufmann;O;;O
+MB.I.8539;INV;http://coll.mfn-berlin.de/u/e0bd53;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Germar;O;;O;58;O;Slg. Häberlein 1880;O;;O
+MB.I.8541;INV;http://coll.mfn-berlin.de/u/94080b;O;Zygoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;67;O;Coll. Häberlein 1880;O;;O
+MB.I.8551;INV;http://coll.mfn-berlin.de/u/a2e582;O;Termes;GEN;leros;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;66;O;gek. 1854;O;;O
+MB.I.8559;INV;http://coll.mfn-berlin.de/u/e0fc6a;O;Coleoptera;ORD;indet.;SPE;Eichstätt;LOC;Oberer Jura;STR;;O;;O;;O;Coll. Häberlein 1880;O;;O
+MB.I.856;INV;http://coll.mfn-berlin.de/u/940808;O;Isoptera;ORD;indet.;SPE;Solnhofen;LOC;Oberer Malm;STR;Germar;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8565;INV;http://coll.mfn-berlin.de/u/ff0a1e;O;Isoptera;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2246 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8567;INV;http://coll.mfn-berlin.de/u/9407fb;O;Libellulium;GEN;longialatum;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2248 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2001;O;;O
+MB.I.8569;INV;http://coll.mfn-berlin.de/u/2296f6;O;Orthoptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;;O;;O
+MB.I.857;INV;http://coll.mfn-berlin.de/u/cd6628;O;Phaneroptera;GEN;amanda;SPE;Solnhofen;LOC;Oberer Jura;STR;Germar;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8570;INV;http://coll.mfn-berlin.de/u/e0bc31;O;Lina;GEN;populeti;SPE;Solnhofen, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;Germar;O;1839;O;;O;Slg. Edinger 1998;O;;O
+MB.I.8574;INV;http://coll.mfn-berlin.de/u/940850;O;Hexagenites;GEN;cellulosus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Coll. Häberlein 1880;O;;O
+MB.I.8579;INV;http://coll.mfn-berlin.de/u/e0bcb7;O;Termes;GEN;lithophilus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8580;INV;http://coll.mfn-berlin.de/u/9407ce;O;Gryllus;GEN;subterraneus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8581;INV;http://coll.mfn-berlin.de/u/7e3a99;O;Ephemera;GEN;intermedia;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;Hagen;O;1862;O;31;O;Slg. Redenbacher;O;det.  G. Demoulin 1970;O
+MB.I.8585;INV;http://coll.mfn-berlin.de/u/940849;O;Blattina;GEN;mollis;SPE;Eichstätt, Bayern, Deutschland;LOC;Solnhofener Plattenkalk, Ober-Jura;STR;;O;;O;MB.1995.4;O;Coll. Kaufmann;O;;O
+MB.I.8587;INV;http://coll.mfn-berlin.de/u/9407d4;O;Anoplites;GEN;bremii;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;85;O;Coll. Häberlein 1880;O;;O
+MB.I.8588;INV;http://coll.mfn-berlin.de/u/9407d9;O;Insecta;CLASS;indet.;SPE;Randecker Maar;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.859;INV;http://coll.mfn-berlin.de/u/940840;O;Auchenorrhyncha;SUBOR;indet.;SPE;Solnhofen;LOC;Oberer Jura;STR;Germar;O;;O;MB.1969.54.99;O;Slg. Rühle von Lilienstern;O;det. Dr. K. V. Lakshminarayana, Calcutta 1977;O
+MB.I.8592;INV;http://coll.mfn-berlin.de/u/94084b;O;Auchenorrhyncha;SUBOR;indet.;SPE;Oeningen ;LOC;Miozän;STR;Heer;O;;O;89;O;;O;;O
+MB.I.8596;INV;http://coll.mfn-berlin.de/u/7c0148;O;Diptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Redenbacher;O;;O
+MB.I.8598;INV;http://coll.mfn-berlin.de/u/940801;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Jura;STR;;O;;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8605;INV;http://coll.mfn-berlin.de/u/e0bd4d;O;Zygoptera;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2240 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8606;INV;http://coll.mfn-berlin.de/u/940766;O;Neuropterida;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2244 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8607;INV;http://coll.mfn-berlin.de/u/e0bcd2;O;Auchenorrhyncha;SUBOR;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2236 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2001;O;;O
+MB.I.8608;INV;http://coll.mfn-berlin.de/u/e0bbc1;O;Oreina;GEN;hellenis;SPE;Oeningen;LOC;Obermiozän;STR;Heer;O;;O;;O;Coll. Heer;O;;O
+MB.I.8609;INV;http://coll.mfn-berlin.de/u/94078d;O;Coleoptera;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2243 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8610;INV;http://coll.mfn-berlin.de/u/e0bd33;O;Insecta;CLASS;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.8610 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8611;INV;http://coll.mfn-berlin.de/u/e0bbd1;O;Zygoptera;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2241 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8612;INV;http://coll.mfn-berlin.de/u/3b7419;O;Neuropterida;ORD;indet.;SPE;Shengdon-Provinz, China;LOC;Unterkreide;STR;;O;;O;MB.I.2239 (doppelt vergeben);O;gek. von M. Bäätjer (Hamburg) 2003;O;;O
+MB.I.8615;INV;http://coll.mfn-berlin.de/u/940760;O;Stratiomyidae;FAM;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8616;INV;http://coll.mfn-berlin.de/u/e0bcaf;O;Formicidae;FAM;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8617;INV;http://coll.mfn-berlin.de/u/940772;O;Insecta;CLASS;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8618;INV;http://coll.mfn-berlin.de/u/940783;O;Heteroptera;ORD;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8619;INV;http://coll.mfn-berlin.de/u/e4d97f;O;Pseudosirex;GEN;schroeteri;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;;O
+MB.I.862;INV;http://coll.mfn-berlin.de/u/e4d984;O;Insecta;CLASS;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Oppenheim;O;1885;O;;O;Slg. Häberlein 1880;O;;O
+MB.I.8620;INV;http://coll.mfn-berlin.de/u/e4d985;O;Insecta;CLASS;indet.;SPE;Florissant Colorado Springs Colorado USA;LOC;Florissant-Formation höchstes Eozän;STR;;O;;O;MB.1996.5.2;O;leg. Schultka 1996;O;;O
+MB.I.8622;INV;http://coll.mfn-berlin.de/u/e4d989;O;Insecta;CLASS;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8624;INV;http://coll.mfn-berlin.de/u/e4d97b;O;Insecta;CLASS;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8626;INV;http://coll.mfn-berlin.de/u/e4d971;O;Coleoptera;ORD;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8627;INV;http://coll.mfn-berlin.de/u/e4d973;O;Heteroptera;ORD;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8628;INV;http://coll.mfn-berlin.de/u/e4d972;O;Diptera;ORD;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8629;INV;http://coll.mfn-berlin.de/u/e4d986;O;Diptera;ORD;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.863.a;INV;http://coll.mfn-berlin.de/u/e4d975;O;Heteroptera;ORD;indet.;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Oppenheim;O;1885;O;56;O;Slg. Häberlein 1880;O;;O
+MB.I.863.b;INV;http://coll.mfn-berlin.de/u/e4d976;O;Pseudosirex;GEN;minimus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Oppenheim;O;1885;O;57;O;;O;;O
+MB.I.8630;INV;http://coll.mfn-berlin.de/u/e4d977;O;Pseudosirex;GEN;minimus;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8631;INV;http://coll.mfn-berlin.de/u/e4d979;O;Heteroptera;ORD;indet.;SPE;Florissant Colorado Springs Colorado USA;LOC;Florissant-Formation höchstes Eozän;STR;;O;;O;MB.1996.5.2;O;leg. Schultka 1996;O;;O
+MB.I.8632;INV;http://coll.mfn-berlin.de/u/9407e3;O;Insecta;CLASS;indet.;SPE;Florissant Colorado Springs Colorado USA;LOC;Florissant-Formation höchstes Eozän;STR;;O;;O;MB.1996.5.2;O;leg. Schultka 1996;O;;O
+MB.I.8633;INV;http://coll.mfn-berlin.de/u/94082b;O;Insecta;CLASS;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8634;INV;http://coll.mfn-berlin.de/u/e4d978;O;Formicidae;FAM;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8635;INV;http://coll.mfn-berlin.de/u/e4d974;O;Cephidae;FAM;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8636;INV;http://coll.mfn-berlin.de/u/e4d97a;O;Formicidae;FAM;indet.;SPE;Douglas Pass, Florissant Colorado USA;LOC;;STR;;O;;O;;O;;O;;O
+MB.I.8637;INV;http://coll.mfn-berlin.de/u/e4d97e;O;Bibionidea;FAM;indet.;SPE;Douglas Pass/Loma, Colorado/USA;LOC;Parachute Creek Member, Green River Formation, tieferes Eözan;STR;;O;;O;MB.1996.5.1;O;leg. Schultka 1996;O;siche. MacGintic H., 1969;O
+MB.I.8638;INV;http://coll.mfn-berlin.de/u/e4d97c;O;Buprestidae;FAM;indet.;SPE;Sachsen Seifhennersdorf bei Zitten;LOC;Tertiär;STR;;O;;O;;O;;O;;O
+MB.I.865;INV;http://coll.mfn-berlin.de/u/e4d983;O;Pseudosirex;GEN;minimus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Oppenheim;O;1885;O;49;O;Coll. Redenbacher;O;;O
+MB.I.866.a;INV;http://coll.mfn-berlin.de/u/e4d97d;O;Pseudosirex;GEN;minimus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Oppenheim;O;1885;O;49;O;Slg. Redenbacher;O;;O
+MB.I.866.b;INV;http://coll.mfn-berlin.de/u/592e65;O;Pseudosirex;GEN;minimus;SPE;Solnhofen, Bayern, Deutschland;LOC;Oberer Malm;STR;Oppenheim;O;1885;O;50;O;Slg. Redenbacher;O;;O
