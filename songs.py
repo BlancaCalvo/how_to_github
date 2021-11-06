@@ -71,7 +71,7 @@ def get_songs(url):
                      'last played': last_played,
                      'times played': times_played
                     })
-        print(data)
+        print(data, song)
     return data
 
 
@@ -97,7 +97,7 @@ def get_song_info(url):
     # the second \t is the second tab, and the + means: 1 or more times, and
     # applies to the previous character (the second tab).
     lyrics = re.sub('\t\t+', '\n', lyrics)
-    print(credits)
+    print(credits, lyrics)
     return {'credits': credits, 'lyrics': lyrics} # Return the data of interest
 
 
