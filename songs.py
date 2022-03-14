@@ -103,7 +103,7 @@ def get_song_info(url):
 
 def main():
 
-    index_url = 'www.downloadboddylan.com' # Contains a list of songs
+    index_url = 'https://www.bobdylan.com/songs/' # Contains a list of songs
     song_data = get_songs(index_url) # Get songs with metadata
 
     for row in song_data:
